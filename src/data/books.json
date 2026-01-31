@@ -1,0 +1,22 @@
+[
+    {
+        "id": "analects",
+        "title": "論語",
+        "englishTitle": "The Analects",
+        "author": "Confucius",
+        "school": "Confucianism",
+        "description": "The collected sayings of Confucius, embodying the core values of Confucianism.",
+        "coverColor": "bg-stone-800",
+        "link": "/library/analects"
+    },
+    {
+        "id": "daodejing",
+        "title": "道德經",
+        "englishTitle": "Tao Te Ching",
+        "author": "Laozi",
+        "school": "Daoism",
+        "description": "The fundamental text for both philosophical and religious Taoism.",
+        "coverColor": "bg-emerald-800",
+        "link": "/library/daodejing"
+    }
+]

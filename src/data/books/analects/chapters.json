@@ -1,0 +1,122 @@
+[
+    {
+        "id": "xue-er",
+        "title": "學而",
+        "chapter_number": 1,
+        "preview": "學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？"
+    },
+    {
+        "id": "wei-zheng",
+        "title": "為政",
+        "chapter_number": 2,
+        "preview": "為政以德，譬如北辰，居其所而眾星共之。"
+    },
+    {
+        "id": "ba-yi",
+        "title": "八佾",
+        "chapter_number": 3,
+        "preview": "孔子謂季氏，「八佾舞於庭，是可忍也，孰不可忍也？」"
+    },
+    {
+        "id": "li-ren",
+        "title": "里仁",
+        "chapter_number": 4,
+        "preview": "子曰：「里仁為美。擇不處仁，焉得知？」"
+    },
+    {
+        "id": "gong-ye-chang",
+        "title": "公冶長",
+        "chapter_number": 5,
+        "preview": "子謂公冶長，「可妻也。雖在縲絏之中，非其罪也。」以其子妻之。"
+    },
+    {
+        "id": "yong-ye",
+        "title": "雍也",
+        "chapter_number": 6,
+        "preview": "子曰：「雍也可使南面。」"
+    },
+    {
+        "id": "shu-er",
+        "title": "述而",
+        "chapter_number": 7,
+        "preview": "子曰：「述而不作，信而好古，竊比於我老彭。」"
+    },
+    {
+        "id": "tai-bo",
+        "title": "泰伯",
+        "chapter_number": 8,
+        "preview": "子曰：「泰伯，其可謂至德也已矣。三以天下讓，民無得而稱焉。」"
+    },
+    {
+        "id": "zi-han",
+        "title": "子罕",
+        "chapter_number": 9,
+        "preview": "子罕言利與命與仁。"
+    },
+    {
+        "id": "xiang-dang",
+        "title": "鄉黨",
+        "chapter_number": 10,
+        "preview": "孔子於鄉黨，恂恂如也，似不能言者。"
+    },
+    {
+        "id": "xian-jin",
+        "title": "先進",
+        "chapter_number": 11,
+        "preview": "子曰：「先進於禮樂，野人也；後進於禮樂，君子也。如用之，則吾從先進。」"
+    },
+    {
+        "id": "yan-yuan",
+        "title": "顏淵",
+        "chapter_number": 12,
+        "preview": "顏淵問仁。子曰：「克己復禮為仁。一日克己復禮，天下歸仁焉。為仁由己，而由人乎哉？」"
+    },
+    {
+        "id": "zi-lu",
+        "title": "子路",
+        "chapter_number": 13,
+        "preview": "子路問政。子曰：「先之，勞之。」請益。曰：「無倦。」"
+    },
+    {
+        "id": "xian-wen",
+        "title": "憲問",
+        "chapter_number": 14,
+        "preview": "憲問恥。子曰：「邦有道，穀；邦無道，穀，恥也。」"
+    },
+    {
+        "id": "wei-ling-gong",
+        "title": "衛靈公",
+        "chapter_number": 15,
+        "preview": "衛靈公問陳於孔子。孔子對曰：「俎豆之事，則嘗聞之矣；軍旅之事，未之學也。」明日遂行。"
+    },
+    {
+        "id": "ji-shi",
+        "title": "季氏",
+        "chapter_number": 16,
+        "preview": "季氏將伐顓臾。"
+    },
+    {
+        "id": "yang-huo",
+        "title": "陽貨",
+        "chapter_number": 17,
+        "preview": "陽貨欲見孔子，孔子不見，歸孔子豚。"
+    },
+    {
+        "id": "wei-zi",
+        "title": "微子",
+        "chapter_number": 18,
+        "preview": "微子去之，箕子為之奴，比干諫而死。"
+    },
+    {
+        "id": "zi-zhang",
+        "title": "子張",
+        "chapter_number": 19,
+        "preview": "子張曰：「士見危致命，見得思義，祭思敬，喪思哀，其可已矣。」"
+    },
+    {
+        "id": "yao-yue",
+        "title": "堯曰",
+        "chapter_number": 20,
+        "preview": "堯曰：「咨！爾舜！天之曆數在爾躬。允執其中。四海困窮，天祿永終。」"
+    }
+]
